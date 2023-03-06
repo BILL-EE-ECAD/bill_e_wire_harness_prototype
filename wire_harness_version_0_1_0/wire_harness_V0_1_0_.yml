@@ -1,0 +1,215 @@
+# options:
+#     # If True, show only a BOM entry reference together with basic info
+#   # about additional components inside the diagram node (connector/cable box).
+#   # If False, show all info about additional components inside the diagram node.
+#   mini_bom_mode: False        # Default = True
+
+
+
+# define all connectors in the entire wire harness
+connectors:
+  
+  ############# Computer  - (C) (102) ##################
+  102J7:
+    notes: I2C output from light sensor
+    subtype: female
+    pinlabels: [SDA, SCL, 3.3V, GND ] # Verify on raspberry pi datasheet
+
+  102J8:
+    notes: GPIO ports from Rraspbery pi
+    subtype: female
+    pinlabels: [GPIO4, GPIO17, GPIO27, GPIO22] # digital I/O
+  ############# Science Hatchery - (SH) (104) ##################
+  104J1:
+    notes: I2C output from light sensor
+    subtype: female
+    pinlabels: [SDA, SCL, Vin, GND ] 
+
+  104J2:
+    notes: Digital input to 4 channel relay
+    subtype: female
+    pinlabels: [In1, In2, In3, In4]
+
+  104J3:
+    notes: Power to 4 channel relay
+    subtype: female
+    pinlabels: [DC+, DC-]
+
+  104J4: &con_relay_pwr_f # Define template for similar connectors
+    notes: Relay connection
+    type: screw terminal
+    subtype: female
+    pinlabels: [NC, COM, "NO"]
+
+  104J5:
+    <<: *con_relay_pwr_f # Create from template
+  104J6:
+    <<: *con_relay_pwr_f # Create from template
+  104J7:
+    <<: *con_relay_pwr_f # Create from template
+
+  104J8: &con_SH_pwr_gnd_f # Define template for similar connectors
+    notes: Power connector for SH components to 4 channel relay
+    type: soldered
+    subtype: female
+    pinlabels: [12Vin, GND] 
+  104J9:
+    <<: *con_SH_pwr_gnd_f # Create from template
+  104J10:
+    <<: *con_SH_pwr_gnd_f # Create from template
+  104J11:
+    <<: *con_SH_pwr_gnd_f # Create from template
+
+  104J12:
+    notes: PWR connector for devices connected to four channel relay
+    type: _?_
+    subtype: female
+    pinlabels: [12Vin, GND]
+
+  ############# Power Distribution  - (PD) (105) ##################
+  105PDT12:
+    notes: 12V Terminal Block
+    type: screw terminal
+    subtype: female
+    pinlabels: [12V]
+
+  105PDT5:
+    notes: 5V Terminal Block
+    type: screw terminal
+    subtype: female
+    pinlabels: [5V]
+
+  105PDT0:
+    notes: GND Terminal Block
+    type: screw terminal
+    subtype: female
+    pinlabels: [GND]
+
+# Define all wire bundles
+cables: 
+  W-SH-1-A:
+    wirecount: 4
+    color_code: DIN
+
+  W-SH-2-A:
+    wirecount: 4
+    color_code: DIN
+
+  W-SH-3-A:
+    wirecount: 2
+    colors: [RD,BU]
+
+  W-SH-4-A:
+    wirecount: 2
+    colors: [RD,BU]
+  W-SH-4-B:
+    wirecount: 1
+    colors: [RD]
+
+  W-SH-5-A:
+    wirecount: 2
+    colors: [RD,BU]
+  W-SH-5-B:
+    wirecount: 1
+    colors: [RD]
+
+  W-SH-6-A:
+    wirecount: 2
+    colors: [RD,BU]
+  W-SH-6-B:
+    wirecount: 1
+    colors: [RD]
+
+  W-SH-7-A:
+    wirecount: 2
+    colors: [RD,BU]
+  W-SH-7-B:
+    wirecount: 1
+    colors: [RD]
+
+  
+
+
+
+# Define all connections
+connections:
+# Connections will named according to the priosrity table
+############# Science Hatchery - (SH) (104) ##################
+  - # SH -> C 
+    - 104J1: [1-4]
+    - W-SH-1-A: [1-4]
+    - 102J7: [1-4]
+  
+  - # SH -> C
+    - 104J2: [1-4]
+    - W-SH-2-A: [1-4]
+    - 102J8: [1-4]
+
+  - # SH -> PD
+    - 104J3: [1-2]
+    - W-SH-3-A: [1-2]
+  -
+    - W-SH-3-A: [1]
+    - 105PDT5: [1]
+  -
+    - W-SH-3-A: [2]
+    - 105PDT0: [1]
+
+  - # SH -> SH
+    - 104J11: [1-2]
+    - W-SH-4-A: [1-2]
+  -
+    - W-SH-4-A: [2]
+    - 105PDT0: [1]
+  -
+    - W-SH-4-A: [1]
+    - 104J4: [3]
+  -
+    - 104J4: [2]
+    - W-SH-4-B: [1]
+    - 105PDT12: [1]
+
+  - # SH -> SH
+    - 104J10: [1-2]
+    - W-SH-5-A: [1-2]
+  -
+    - W-SH-5-A: [2]
+    - 105PDT0: [1]
+  -
+    - W-SH-5-A: [1]
+    - 104J5: [3]
+  -
+    - 104J5: [2]
+    - W-SH-5-B: [1]
+    - 105PDT12: [1]
+
+  - # SH -> SH
+    - 104J9: [1-2]
+    - W-SH-6-A: [1-2]
+  -
+    - W-SH-6-A: [2]
+    - 105PDT0: [1]
+  -
+    - W-SH-6-A: [1]
+    - 104J6: [3]
+  -
+    - 104J6: [2]
+    - W-SH-5-B: [1]
+    - 105PDT12: [1]
+
+  - # SH -> SH
+    - 104J8: [1-2]
+    - W-SH-7-A: [1-2]
+  -
+    - W-SH-7-A: [2]
+    - 105PDT0: [1]
+  -
+    - W-SH-7-A: [1]
+    - 104J7: [3]
+  -
+    - 104J7: [2]
+    - W-SH-7-B: [1]
+    - 105PDT12: [1]
+
+
+
