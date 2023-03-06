@@ -488,39 +488,6 @@ graph {
  </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
-	"104J12" [label=<
-<table border="0" cellspacing="0" cellpadding="0">
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">104J12</td>
-  </tr></table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">_?_</td>
-   <td balign="left">female</td>
-   <td balign="left">2-pin</td>
-  </tr></table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
-   <tr>
-    <td port="p1l">1</td>
-    <td>12Vin</td>
-   </tr>
-   <tr>
-    <td port="p2l">2</td>
-    <td>GND</td>
-   </tr>
-  </table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">PWR connector for devices connected to four channel relay</td>
-  </tr></table>
- </td></tr>
-</table>
-> fillcolor="#FFFFFF" shape=box style=filled]
 	"105PDT12" [label=<
 <table border="0" cellspacing="0" cellpadding="0">
  <tr><td>
@@ -1022,9 +989,6 @@ graph {
 	edge [color="#000000:#ff0000:#000000"]
 	"104J5":p2r:e -- "W-SH-5-B":w1:w
 	"W-SH-5-B":w1:e -- "105PDT12":p1l:w
-	edge [color="#000000:#ff0000:#000000"]
-	"104J6":p2r:e -- "W-SH-5-B":w1:w
-	"W-SH-5-B":w1:e -- "105PDT12":p1l:w
 	"W-SH-5-B" [label=<
 <table border="0" cellspacing="0" cellpadding="0">
  <tr><td>
@@ -1121,6 +1085,9 @@ graph {
  </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
+	edge [color="#000000:#ff0000:#000000"]
+	"104J6":p2r:e -- "W-SH-6-B":w1:w
+	"W-SH-6-B":w1:e -- "105PDT12":p1l:w
 	"W-SH-6-B" [label=<
 <table border="0" cellspacing="0" cellpadding="0">
  <tr><td>
@@ -1137,11 +1104,11 @@ graph {
   <table border="0" cellspacing="0" cellborder="0">
    <tr><td>&nbsp;</td></tr>
    <tr>
-    <td><!-- 1_in --></td>
+    <td>104J6:2:COM</td>
     <td>
      1:RD
     </td>
-    <td><!-- 1_out --></td>
+    <td>105PDT12:1:12V</td>
    </tr>
    <tr>
     <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">

@@ -60,11 +60,11 @@ connectors:
   104J11:
     <<: *con_SH_pwr_gnd_f # Create from template
 
-  104J12:
-    notes: PWR connector for devices connected to four channel relay
-    type: _?_
-    subtype: female
-    pinlabels: [12Vin, GND]
+  # 104J12: # Removed for now. Verify connections later. 
+  #   notes: PWR connector for devices connected to four channel relay
+  #   type: _?_
+  #   subtype: female
+  #   pinlabels: [12Vin, GND]
 
   ############# Power Distribution  - (PD) (105) ##################
   105PDT12:
@@ -194,7 +194,7 @@ connections:
     - 104J6: [3]
   -
     - 104J6: [2]
-    - W-SH-5-B: [1]
+    - W-SH-6-B: [1]
     - 105PDT12: [1]
 
   - # SH -> SH
@@ -210,6 +210,3 @@ connections:
     - 104J7: [2]
     - W-SH-7-B: [1]
     - 105PDT12: [1]
-
-
-
