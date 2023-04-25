@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-04-25T03:49:59.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="T6zI5boNiv4vr6hrOnGs" version="21.1.2" type="device" pages="2">
+<mxfile host="Electron" modified="2023-04-25T05:15:45.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="S0dXyUzyTXzsjh13rVTr" version="21.1.2" type="device" pages="2">
   <diagram name="power_wire_harness" id="cVnVKFGGydBFmvp2IB7W">
-    <mxGraphModel dx="4490" dy="2781" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5327" dy="3277" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2278,10 +2278,10 @@
         <mxCell id="IhFJ0u2HprK4ZKRMJgwG-72" value="Not known if the built-in STEMA QT will be used from the light sensor. Assume that a new JST-SH connector will be used." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="3573.999755859375" y="1710.0000610351562" width="140" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="G6QqmCctjnHO0gUruHkJ-1" value="W302 and W303: PD13B22 and PD13C14 will be sheathed respectively.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=middle;align=center;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="G6QqmCctjnHO0gUruHkJ-1" value="W302 and W303: PD13B22 and PD13C14 will be sheathed respectively.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;verticalAlign=middle;align=center;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="4622.999885110294" y="2659.9954090073534" width="140" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="zEONC0CA01kznBuqgRWS-2" value="No Cable Sheaths used for A10-J4 and A10-J3 because they are very close to the baord.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="zEONC0CA01kznBuqgRWS-2" value="No Cable Sheaths used for A10-J4 and A10-J3 because they are very close to the baord.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="4253.998292410715" y="2662.0041462053578" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
