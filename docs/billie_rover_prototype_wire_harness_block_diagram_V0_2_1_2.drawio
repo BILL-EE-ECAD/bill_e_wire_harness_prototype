@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-04-25T02:30:19.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="dUbrBRn_BBs3lPct-oen" version="21.1.2" type="device" pages="2">
+<mxfile host="Electron" modified="2023-04-25T02:31:34.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="OO1u8cB8MZbQGM3OVUj8" version="21.1.2" type="device" pages="2">
   <diagram name="power_wire_harness" id="cVnVKFGGydBFmvp2IB7W">
-    <mxGraphModel dx="6390" dy="3915" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7453" dy="4553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2302,7 +2302,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GooJI3mAossxJXcL789R" name="wire-harness-legend">
-    <mxGraphModel dx="6236" dy="1702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6590" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
