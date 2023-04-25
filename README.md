@@ -9,7 +9,7 @@ From this repository, one should be able to re-creaate the harness with help fro
 
 # Block Diagram
 The connections made in the prototype rover are blocked here. Creation of WireViz requires this image. 
-![Wire_Harnesss_Photo]([http://url/to/img.png](https://github.com/BILL-EE-ECAD/bill_e_wire_harness_prototype/blob/main/docs/billie_rover_prototype_wire_harness_block_diagram_V0_2_1_2-power_wire_harness.drawio.png))
+![Wire_Harnesss_Photo](https://github.com/BILL-EE-ECAD/bill_e_wire_harness_prototype/blob/main/docs/billie_rover_prototype_wire_harness_block_diagram_V0_2_1_2-power_wire_harness.drawio.png)
 
 # Dependencies
 This python app uses the following packages:
