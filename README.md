@@ -3,6 +3,13 @@ Generate the wire harness for the Cal Poly Pomona Bronco Space Rover Team - BILL
 
 
 # Description
+The wire harness is the collection of wires, connectors, cables, sheaths, that connect all the different electronic componants in the rover. This repository contains the block diagrams, design files, wireViz soirce code and outputs. 
+
+From this repository, one should be able to re-creaate the harness with help from the corresponding Notion page. 
+
+# Block Diagram
+The connections made in the prototype rover are blocked here. Creation of WireViz requires this image. 
+![Wire_Harnesss_Photo](https://github.com/BILL-EE-ECAD/bill_e_wire_harness_prototype/blob/main/docs/billie_rover_prototype_wire_harness_block_diagram_V0_2_1_2-power_wire_harness.drawio.png)
 
 # Dependencies
 This python app uses the following packages:
