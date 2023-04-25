@@ -11,6 +11,10 @@ From this repository, one should be able to re-creaate the harness with help fro
 The connections made in the prototype rover are blocked here. Creation of WireViz requires this image. 
 ![Wire_Harnesss_Photo](https://github.com/BILL-EE-ECAD/bill_e_wire_harness_prototype/blob/main/docs/billie_rover_prototype_wire_harness_block_diagram_V0_2_1_2-power_wire_harness.drawio.png)
 
+## Wire Harnesss Legend
+The legend describes what each of the connector and cable IDs mean. Furthermore, important details needed to understand the wire harness.
+![Wire_Harnesss_Photo](https://github.com/BILL-EE-ECAD/bill_e_wire_harness_prototype/blob/main/docs/billie_rover_prototype_wire_harness_block_diagram_V0_2_1_2-wire-harness-legend.drawio.png)
+
 # Dependencies
 This python app uses the following packages:
 - [WireViz](https://github.com/formatc1702/WireViz)
