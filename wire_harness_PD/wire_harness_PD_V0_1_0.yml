@@ -46,9 +46,9 @@ templates:
   - &template_dc_barrel_plug
     type: DC Barrel Plug
     subtype: male
-    pincount: 1
+    pincount: 2
     pins:
-    pinlabels: ["?"]
+    pinlabels: ["+", "-"]
     manufacturer: "?"
     pn: "?"
     color: BK
@@ -238,7 +238,7 @@ connectors:
     bgcolor_title: LB
     image: 
       src: images_pd\dc_12V_regulator.png
-      caption: 100A ANL Fuse
+      caption: 12V DC Regulator
       width: 150
       height: 150
 
@@ -250,7 +250,7 @@ connectors:
     bgcolor_title: LB
     image: 
       src: images_pd\dc_12V_regulator.png
-      caption: 100A ANL Fuse
+      caption: 12V DC Regulator
       width: 150
       height: 150
 
@@ -262,7 +262,7 @@ connectors:
     bgcolor_title: LB
     image: 
       src: images_pd\5V_dc_regulator.png
-      caption: 100A ANL Fuse
+      caption: 5V DC Regulator
       width: 150
       height: 150
 
@@ -274,7 +274,7 @@ connectors:
     bgcolor_title: LB
     image: 
       src: images_pd\5V_dc_regulator.png
-      caption: 100A ANL Fuse
+      caption: 5V DC Regulator
       width: 150
       height: 150
 
@@ -755,7 +755,9 @@ cables:
       colors: [RD]
       bgcolor_title: LB
 
-    W003C: *template_cable_power_generic
+    W003C: 
+      <<: *template_cable_power_generic
+      colors: [BU, BU]
 
     W004A:
       <<: *template_cable
@@ -798,17 +800,22 @@ cables:
       bgcolor_title: GN
     W104:
       <<: *template_cable
-      wirecount: 1
+      wirecount: 2
       color: GN
       bgcolor_title: GN
     W105:
       <<: *template_cable
-      wirecount: 1
+      wirecount: 5
       color: GN
       bgcolor_title: GN
     W106:
       <<: *template_cable
       wirecount: 1
+      color: GN
+      bgcolor_title: GN
+    W107:
+      <<: *template_cable
+      wirecount: 2
       color: GN
       bgcolor_title: GN
 
@@ -874,38 +881,174 @@ connections:
     - T3-J1: [2]
 
   # ============= External Power Train Connections (PT) (400) =========== #
-  # - # T1 & T3 -> A1
-  #   - T1-J1: [2]
-  #   - W008: [1]
-  #   - A1-J1: [1]
-  # -
-  #   - T3-J1: [3]
-  #   - W008: [2]
-  #   - A1-J1: [2]
+  - # T1 & T3 -> A1
+    - T1-J1: [2]
+    - W008: [1]
+    - A1-J1: [1]
+  -
+    - T3-J1: [3]
+    - W008: [2]
+    - A1-J1: [2]
     
+  - # T1 & T3 -> A2
+    - T1-J1: [3]
+    - W009: [1]
+    - A2-J1: [1]
+  - 
+    - T3-J1: [4]
+    - W009: [2]
+    - A2-J1: [2]
 
-  # - # T1 & T3 -> A2
+  - # T1 & T3 -> A3
+    - T1-J1: [4]
+    - W010: [1]
+    - A3-J1: [1]
+  - 
+    - T3-J1: [5]
+    - W010: [2]
+    - A3-J1: [2]
 
-  # - # T1 & T3 -> A3
+  - # A8 -> A1
+    - A8-J3: [1]
+    - W101: [1]
+    - A1-J2: [1]
 
-  # - # A8 -> A1
+  - # A8 -> A2
+    - A8-J4: [1]
+    - W102: [1]
+    - A2-J2: [1]
 
-  # - # A8 -> A2
-
-  # - # A8 -> A3
+  - # A8 -> A3
+    - A8-J5: [1]
+    - W103: [1]
+    - A3-J2: [1]
   
   # ============= Internal Power Train Connections (PT) (400) =========== #
+  - # A1 -> M1
+    - A1-J4: [1-2]
+    - W401: [1-2]
+    - M1-J1: [1-2]
 
+  - # A1 -> M2
+    - A1-J3: [1-2]
+    - W402: [1-2]
+    - M2-J1: [1-2]
 
+  - # A2 -> M3
+    - A2-J4: [1-2]
+    - W403: [1-2]
+    - M3-J1: [1-2]
+
+  - # A2 -> M4
+    - A2-J3: [1-2]
+    - W404: [1-2]
+    - M4-J1: [1-2]
+
+  - # A3 -> M5
+    - A3-J4: [1-2]
+    - W405: [1-2]
+    - M5-J1: [1-2]
+
+  - # A3 -> M6
+    - A3-J3: [1-2]
+    - W406: [1-2]
+    - M6-J1: [1-2]
 
   # ================ External Computer Connections (C) (100) ============= #
+  - #T2 & T3 -> A7
+    - T2-J1: [2]
+    - W005: [1]
+    - A7-J1: [1]
+  -
+    - T3-J1: [6]
+    - W005: [2]
+    - A7-J1: [2]
+  - #T2 & T3 -> A8
+    - T2-J1: [3]
+    - W007: [1]
+    - A8-J2: [1]
+  -
+    - T3-J1: [7]
+    - W007: [2]
+    - A8-J2: [2]
 
+  - #A8 -> A4
+    - A8-J6: [1-5]
+    - W105: [1-5]
+    - A4-J1: [1-5]
 
-  # ============== Internal Computer Connections (C) (100) =============== #
+  - #A8 -> A9
+    - A8-J7: [1-2]
+    - W104: [1-2]
+    - A9-J2: [1-2]
+
+  - #A8 -> A10
+    - A8-J8: [1-2]
+    - W107: [1-2]
+    - A10-J2: [1-2]
+
+  # # ============== Internal Computer Connections (C) (100) =============== #
     
-
+  - #A7 -> #A8
+    - A7-J2: [1]
+    - W106: [1]
+    - A8-J1: [1]
 
   # ========== External Science Hatchery Connections (SH) (300) =========== #
+  - # T2 & T3 -> A9
+    - T2-J1: [4]
+    - W011: [1]
+    - A9-J1.1: [1]
+
+  - 
+    - T3-J1: [8]
+    - W011: [2]
+    - A9-J1.2: [1]
+
+  - # T2 & T3 -> A10
+    - T2-J1: [5]
+    - W012: [1]
+    - A10-J1: [1]
+
+  - 
+    - T3-J1: [9]
+    - W012: [2]
+    - A10-J1: [2]
+
+  - # T2 & T3 -> A10 (RELAY)
+    - T2-J1: [10]
+    - W006: [1]
+  - 
+    - W006: [1]
+    - A10-J4: [1]
+  -
+    - W006: [1]
+    - A10-J3: [1]
+
+  - # T3
+    - T3-J1: [10]
+    - W006: [2]
+  - 
+    - W006: [2]
+    - M7-J1: [1]
+  -
+    - W006: [2]
+    - M8-J1: [1]
 
 
-  # ========== External Science Hatchery Connections (SH) (300) =========== #
+  # ========== Internal Science Hatchery Connections (SH) (300) =========== #
+
+  - # A9 -> M9
+    - A9-J3: [1-2]
+    - W301: [1-2]
+    - M9-J1: [1-2]
+
+  - #A10 -> M7
+    - A10-J4: [2]
+    - W302: [1]
+    - M7-J1: [1] 
+
+  - #A10 -> M8
+    - A10-J3: [2]
+    - W303: [1]
+    - M8-J1: [1]

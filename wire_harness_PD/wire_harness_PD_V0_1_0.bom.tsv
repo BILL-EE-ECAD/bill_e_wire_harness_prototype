@@ -1,21 +1,23 @@
 Id	Description	Qty	Unit	Designators	P/N	Manufacturer
 1	Cable, Braided Polyethylene, 1 x 22 AWG	3	m	W001B, W003B, W004A	ASIN:B08CKRLS2M	KECO
-2	Cable, Braided Polyethylene, 1 x 22 AWG, GN	6	m	W101, W102, W103, W104, W105, W106	ASIN:B08CKRLS2M	KECO
+2	Cable, Braided Polyethylene, 1 x 22 AWG, GN	4	m	W101, W102, W103, W106	ASIN:B08CKRLS2M	KECO
 3	Cable, Braided Polyethylene, 1 x 22 AWG, VT	2	m	W302, W303	ASIN:B08CKRLS2M	KECO
 4	Cable, Braided Polyethylene, 2 x 22 AWG	17	m	W001A, W003A, W003C, W005, W006, W007, W008, W009, W010, W011, W012, W401, W402, W403, W404, W405, W406	ASIN:B08CKRLS2M	KECO
-5	Cable, Braided Polyethylene, 2 x 22 AWG, VT	1	m	W301	ASIN:B08CKRLS2M	KECO
-6	Connector, DC Barrel Plug, male, 1 pins, GN	1		A7-J1	?	?
-7	Connector, Ethernet Port, female, 1 pins, GN	2		A7-J2, A8-J1	?	?
-8	Connector, Ferrule Terminal, male, 1 pins, VT	2		A9-J1.1, A9-J1.2	?	?
-9	Connector, JST-XH, female, 2 pins, GN	2		A8-J7, A8-J8	ASIN: B09ZTWCZ3K	Taiss
-10	Connector, JST-XH, female, 2 pins, VT	7		A10-J2, A10-J3, A10-J4, A9-J2, M7-J1, M8-J1, M9-J1	ASIN: B09ZTWCZ3K	Taiss
-11	Connector, JST-XH, female, 5 pins, GN	1		A8-J6	ASIN: B09ZTWCZ3K	Taiss
-12	Connector, JST-XH, female, 5 pins, VT	1		A4-J1	ASIN: B09ZTWCZ3K	Taiss
-13	Connector, Ring Terminal, male, 1 pins, LB	2		F1-J1, F1-J2	?	?
-14	Connector, Screw Terminal, female, 10 pins, LB	3		T1-J1, T2-J1, T3-J1	ASIN:B07Y6KZ5JC	uxcell
-15	Connector, USB Type B Port, female, 1 pins, CU	3		A1-J2, A2-J2, A3-J2	?	?
-16	Connector, USB Type B Port, female, 1 pins, GN	3		A8-J3, A8-J4, A8-J5	?	?
-17	Connector, XT-60H, female, 2 pins, CU	15		A1-J1, A1-J3, A1-J4, A2-J1, A2-J3, A2-J4, A3-J1, A3-J3, A3-J4, M1-J1, M2-J1, M3-J1, M4-J1, M5-J1, M6-J1	ASIN:B07Q2SJSZ1	MCIGICM
-18	Connector, XT-60H, female, 2 pins, GN	1		A8-J2	ASIN:B07Q2SJSZ1	MCIGICM
-19	Connector, XT-60H, female, 2 pins, VT	2		A10-J1, A9-J3	ASIN:B07Q2SJSZ1	MCIGICM
-20	Connector, XT-90S, female, 2 pins, LB	5		B1-J3, VR1-J1, VR1-J2, VR2-J1, VR2-J2	ASIN:B074PTHZ3M	SoloGood
+5	Cable, Braided Polyethylene, 2 x 22 AWG, GN	2	m	W104, W107	ASIN:B08CKRLS2M	KECO
+6	Cable, Braided Polyethylene, 2 x 22 AWG, VT	1	m	W301	ASIN:B08CKRLS2M	KECO
+7	Cable, Braided Polyethylene, 5 x 22 AWG, GN	1	m	W105	ASIN:B08CKRLS2M	KECO
+8	Connector, DC Barrel Plug, male, 2 pins, GN	1		A7-J1	?	?
+9	Connector, Ethernet Port, female, 1 pins, GN	2		A7-J2, A8-J1	?	?
+10	Connector, Ferrule Terminal, male, 1 pins, VT	2		A9-J1.1, A9-J1.2	?	?
+11	Connector, JST-XH, female, 2 pins, GN	2		A8-J7, A8-J8	ASIN: B09ZTWCZ3K	Taiss
+12	Connector, JST-XH, female, 2 pins, VT	7		A10-J2, A10-J3, A10-J4, A9-J2, M7-J1, M8-J1, M9-J1	ASIN: B09ZTWCZ3K	Taiss
+13	Connector, JST-XH, female, 5 pins, GN	1		A8-J6	ASIN: B09ZTWCZ3K	Taiss
+14	Connector, JST-XH, female, 5 pins, VT	1		A4-J1	ASIN: B09ZTWCZ3K	Taiss
+15	Connector, Ring Terminal, male, 1 pins, LB	2		F1-J1, F1-J2	?	?
+16	Connector, Screw Terminal, female, 10 pins, LB	3		T1-J1, T2-J1, T3-J1	ASIN:B07Y6KZ5JC	uxcell
+17	Connector, USB Type B Port, female, 1 pins, CU	3		A1-J2, A2-J2, A3-J2	?	?
+18	Connector, USB Type B Port, female, 1 pins, GN	3		A8-J3, A8-J4, A8-J5	?	?
+19	Connector, XT-60H, female, 2 pins, CU	15		A1-J1, A1-J3, A1-J4, A2-J1, A2-J3, A2-J4, A3-J1, A3-J3, A3-J4, M1-J1, M2-J1, M3-J1, M4-J1, M5-J1, M6-J1	ASIN:B07Q2SJSZ1	MCIGICM
+20	Connector, XT-60H, female, 2 pins, GN	1		A8-J2	ASIN:B07Q2SJSZ1	MCIGICM
+21	Connector, XT-60H, female, 2 pins, VT	2		A10-J1, A9-J3	ASIN:B07Q2SJSZ1	MCIGICM
+22	Connector, XT-90S, female, 2 pins, LB	5		B1-J3, VR1-J1, VR1-J2, VR2-J1, VR2-J2	ASIN:B074PTHZ3M	SoloGood
