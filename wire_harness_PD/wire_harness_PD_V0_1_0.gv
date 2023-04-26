@@ -93,14 +93,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\ring_terminal.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\ANL_100A_Fuse.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">Ring Terminal</td>
+   <td balign="left" sides="BLR">100A ANL Fuse</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -144,14 +144,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\ring_terminal.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\ANL_100A_Fuse.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">Ring Terminal</td>
+   <td balign="left" sides="BLR">100A ANL Fuse</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -199,14 +199,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_90_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\dc_12V_regulator.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-90 Connector</td>
+   <td balign="left" sides="BLR">100A ANL Fuse</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -254,14 +254,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_90_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\dc_12V_regulator.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-90 Connector</td>
+   <td balign="left" sides="BLR">100A ANL Fuse</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -309,14 +309,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_90_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\5V_dc_regulator.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-90 Connector</td>
+   <td balign="left" sides="BLR">100A ANL Fuse</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -364,14 +364,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_90_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\5V_dc_regulator.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-90 Connector</td>
+   <td balign="left" sides="BLR">100A ANL Fuse</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -630,8 +630,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -650,14 +650,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\roboclaw_2x7A_motor_controller.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -685,8 +685,8 @@ graph {
    <td balign="left">USB Type B Port</td>
    <td balign="left">female</td>
    <td balign="left">1-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -701,14 +701,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\usb_b_port.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\roboclaw_2x7A_motor_controller.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">USB Type B Port</td>
+   <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -736,8 +736,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -756,14 +756,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\roboclaw_2x7A_motor_controller.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -773,11 +773,11 @@ graph {
  </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
-	"A2-J4" [label=<
+	"A1-J4" [label=<
 <table border="0" cellspacing="0" cellpadding="0">
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" bgcolor="#D6775E">A2-J4</td>
+   <td balign="left" bgcolor="#D6775E">A1-J4</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -791,8 +791,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -811,14 +811,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\roboclaw_2x7A_motor_controller.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -846,8 +846,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -866,14 +866,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\roboclaw_2x7A_motor_controller.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -901,8 +901,8 @@ graph {
    <td balign="left">USB Type B Port</td>
    <td balign="left">female</td>
    <td balign="left">1-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -917,14 +917,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\usb_b_port.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\roboclaw_2x7A_motor_controller.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">USB Type B Port</td>
+   <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -952,8 +952,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -972,14 +972,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\roboclaw_2x7A_motor_controller.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -989,11 +989,11 @@ graph {
  </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
-	"A3-J4" [label=<
+	"A2-J4" [label=<
 <table border="0" cellspacing="0" cellpadding="0">
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" bgcolor="#D6775E">A3-J4</td>
+   <td balign="left" bgcolor="#D6775E">A2-J4</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1007,8 +1007,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1027,14 +1027,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\roboclaw_2x7A_motor_controller.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1062,8 +1062,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1082,14 +1082,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\roboclaw_2x7A_motor_controller.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1117,8 +1117,8 @@ graph {
    <td balign="left">USB Type B Port</td>
    <td balign="left">female</td>
    <td balign="left">1-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1133,14 +1133,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\usb_b_port.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\roboclaw_2x7A_motor_controller.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">USB Type B Port</td>
+   <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1168,8 +1168,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1188,14 +1188,69 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\roboclaw_2x7A_motor_controller.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 7.00mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A3-J4" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#D6775E">A3-J4</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">MCIGICM</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">XT-60H</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>+</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>-</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\roboclaw_2x7A_motor_controller.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1223,8 +1278,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1243,14 +1298,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\755_redline_motor.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">755 Redline Motor</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1278,8 +1333,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1298,14 +1353,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\755_redline_motor.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">755 Redline Motor</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1333,8 +1388,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1353,14 +1408,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\755_redline_motor.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">755 Redline Motor</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1388,8 +1443,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1408,14 +1463,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\755_redline_motor.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">755 Redline Motor</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1443,8 +1498,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1463,14 +1518,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\755_redline_motor.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">755 Redline Motor</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1498,8 +1553,8 @@ graph {
    <td balign="left">XT-60H</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
-   <td balign="left">BK</td>
-   <td balign="left" bgcolor="#000000" width="4"></td>
+   <td balign="left">CU</td>
+   <td balign="left" bgcolor="#D6775E" width="4"></td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -1518,19 +1573,1221 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\xt_60_female.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\755_redline_motor.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60H Connector</td>
+   <td balign="left" sides="BLR">755 Redline Motor</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">Pin Spacing: 7.00mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A7-J1" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">A7-J1</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ?</td>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">DC Barrel Plug</td>
+   <td balign="left">male</td>
+   <td balign="left">1-pin</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>?</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\jetson_nvidia_4_gb.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">Nvidia Jetson Nano 4GB</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A7-J2" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">A7-J2</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ?</td>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ethernet Port</td>
+   <td balign="left">female</td>
+   <td balign="left">1-pin</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>?</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\jetson_nvidia_4_gb.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">Nvidia Jetson Nano 4GB</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A8-J1" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">A8-J1</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ?</td>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ethernet Port</td>
+   <td balign="left">female</td>
+   <td balign="left">1-pin</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>?</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\raspberry_pi_4.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">Raspberry PI 4B</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A8-J2" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">A8-J2</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">MCIGICM</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">XT-60H</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>+</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>-</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\raspberry_pi_4.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">Raspberry PI 4B</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 7.00mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A8-J3" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">A8-J3</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ?</td>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">USB Type B Port</td>
+   <td balign="left">female</td>
+   <td balign="left">1-pin</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>?</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\raspberry_pi_4.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">Raspberry PI 4B</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A8-J4" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">A8-J4</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ?</td>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">USB Type B Port</td>
+   <td balign="left">female</td>
+   <td balign="left">1-pin</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>?</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\raspberry_pi_4.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">Raspberry PI 4B</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A8-J5" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">A8-J5</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ?</td>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">USB Type B Port</td>
+   <td balign="left">female</td>
+   <td balign="left">1-pin</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>?</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\raspberry_pi_4.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">Raspberry PI 4B</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A8-J6" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">A8-J6</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">Taiss</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">JST-XH</td>
+   <td balign="left">female</td>
+   <td balign="left">5-pin</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>3V3</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>SCL</td>
+   </tr>
+   <tr>
+    <td port="p3l">3</td>
+    <td>SDA</td>
+   </tr>
+   <tr>
+    <td port="p4l">4</td>
+    <td>ADDR</td>
+   </tr>
+   <tr>
+    <td port="p5l">5</td>
+    <td>GND</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\raspberry_pi_4.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">Raspberry PI 4B</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 2.54mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A8-J7" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">A8-J7</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">Taiss</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">JST-XH</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>IN1</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>IN2</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\raspberry_pi_4.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">Raspberry PI 4B</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 2.54mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A8-J8" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">A8-J8</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">Taiss</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">JST-XH</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>IN1</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>IN2</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\raspberry_pi_4.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">Raspberry PI 4B</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 2.54mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A4-J1" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">A4-J1</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">Taiss</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">JST-XH</td>
+   <td balign="left">female</td>
+   <td balign="left">5-pin</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>3V3</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>SCL</td>
+   </tr>
+   <tr>
+    <td port="p3l">3</td>
+    <td>SDA</td>
+   </tr>
+   <tr>
+    <td port="p4l">4</td>
+    <td>ADDR</td>
+   </tr>
+   <tr>
+    <td port="p5l">5</td>
+    <td>GND</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\BH1750_light_sensor.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">Adafruit BH1750 Light Sensor</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 2.54mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A9-J1.1" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">A9-J1.1</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ?</td>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
+   <td balign="left">1-pin</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>?</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\L298_dual_h_bridge.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">L297 Dual H Bridge Motor Driver</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A9-J1.2" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">A9-J1.2</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ?</td>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
+   <td balign="left">1-pin</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>?</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\L298_dual_h_bridge.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">L297 Dual H Bridge Motor Driver</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A9-J2" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">A9-J2</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">Taiss</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">JST-XH</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>IN1</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>IN2</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\L298_dual_h_bridge.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">L297 Dual H Bridge Motor Driver</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 2.54mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A9-J3" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">A9-J3</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">MCIGICM</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">XT-60H</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>+</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>-</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\L298_dual_h_bridge.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">L297 Dual H Bridge Motor Driver</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 7.00mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A10-J1" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">A10-J1</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">MCIGICM</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">XT-60H</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>+</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>-</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\5_channel_relay_5V.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">4 5V Channel Relay</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 7.00mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A10-J2" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">A10-J2</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">Taiss</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">JST-XH</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>IN1</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>IN2</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\5_channel_relay_5V.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">4 5V Channel Relay</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 2.54mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A10-J3" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">A10-J3</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">Taiss</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">JST-XH</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>+</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>COM2</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\5_channel_relay_5V.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">4 5V Channel Relay</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 2.54mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"A10-J4" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">A10-J4</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">Taiss</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">JST-XH</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>+</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>COM1</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\5_channel_relay_5V.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">4 5V Channel Relay</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 2.54mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"M7-J1" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">M7-J1</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">Taiss</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">JST-XH</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>+</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>COM1</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\12V_blower_fan.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">12V Blower Fan</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 2.54mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"M8-J1" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">M8-J1</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">Taiss</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">JST-XH</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>+</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>COM2</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\12V_dosing_pump.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">12V Dosing Pump</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 2.54mm</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	"M9-J1" [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">M9-J1</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">Taiss</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">JST-XH</td>
+   <td balign="left">female</td>
+   <td balign="left">2-pin</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1">
+   <tr>
+    <td port="p1l">1</td>
+    <td>+</td>
+   </tr>
+   <tr>
+    <td port="p2l">2</td>
+    <td>-</td>
+   </tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="TLR">
+    <table border="0" cellspacing="0" cellborder="0"><tr>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\12V_dosing_pump.png"/></td>
+    </tr></table>
+   </td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" sides="BLR">12V Dosing Pump</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Pin Spacing: 2.54mm</td>
   </tr></table>
  </td></tr>
 </table>
@@ -1604,15 +2861,6 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">
-    <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\cable_sheath.png"/></td>
-    </tr></table>
-   </td>
-  </tr></table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">Power from Power Distribution</td>
   </tr></table>
  </td></tr>
@@ -1663,15 +2911,6 @@ graph {
    </tr>
    <tr><td>&nbsp;</td></tr>
   </table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">
-    <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\cable_sheath.png"/></td>
-    </tr></table>
-   </td>
-  </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
@@ -1747,15 +2986,6 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">
-    <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\cable_sheath.png"/></td>
-    </tr></table>
-   </td>
-  </tr></table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">Power from Power Distribution</td>
   </tr></table>
  </td></tr>
@@ -1806,15 +3036,6 @@ graph {
    </tr>
    <tr><td>&nbsp;</td></tr>
   </table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">
-    <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\cable_sheath.png"/></td>
-    </tr></table>
-   </td>
-  </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
@@ -1890,15 +3111,6 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">
-    <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\cable_sheath.png"/></td>
-    </tr></table>
-   </td>
-  </tr></table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">Power from Power Distribution</td>
   </tr></table>
  </td></tr>
@@ -1949,15 +3161,6 @@ graph {
    </tr>
    <tr><td>&nbsp;</td></tr>
   </table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">
-    <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\cable_sheath.png"/></td>
-    </tr></table>
-   </td>
-  </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
@@ -2027,12 +3230,135 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">
-    <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\cable_sheath.png"/></td>
-    </tr></table>
-   </td>
+   <td balign="left">Power from Power Distribution</td>
   </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W006 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#A0DFFF">W006</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">2x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1:RD
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ff0000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr>
+    <td><!-- 2_in --></td>
+    <td>
+     2:BU
+    </td>
+    <td><!-- 2_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w2" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#0066ff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Power from Power Distribution</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W007 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#A0DFFF">W007</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">2x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1:RD
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ff0000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr>
+    <td><!-- 2_in --></td>
+    <td>
+     2:BU
+    </td>
+    <td><!-- 2_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w2" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#0066ff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
@@ -2102,15 +3428,6 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">
-    <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\cable_sheath.png"/></td>
-    </tr></table>
-   </td>
-  </tr></table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">Power from Power Distribution</td>
   </tr></table>
  </td></tr>
@@ -2174,15 +3491,6 @@ graph {
    </tr>
    <tr><td>&nbsp;</td></tr>
   </table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">
-    <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\cable_sheath.png"/></td>
-    </tr></table>
-   </td>
-  </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
@@ -2252,15 +3560,6 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">
-    <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\cable_sheath.png"/></td>
-    </tr></table>
-   </td>
-  </tr></table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">Power from Power Distribution</td>
   </tr></table>
  </td></tr>
@@ -2324,15 +3623,6 @@ graph {
    </tr>
    <tr><td>&nbsp;</td></tr>
   </table>
- </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">
-    <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\cable_sheath.png"/></td>
-    </tr></table>
-   </td>
-  </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
@@ -2402,16 +3692,887 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">
-    <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\cable_sheath.png"/></td>
-    </tr></table>
-   </td>
+   <td balign="left">Power from Power Distribution</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W401 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#FF0000">W401</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Power from Power Distribution</td>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">2x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1:RD
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ff0000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr>
+    <td><!-- 2_in --></td>
+    <td>
+     2:BU
+    </td>
+    <td><!-- 2_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w2" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#0066ff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Motor Power</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W402 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#FF0000">W402</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">2x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1:RD
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ff0000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr>
+    <td><!-- 2_in --></td>
+    <td>
+     2:BU
+    </td>
+    <td><!-- 2_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w2" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#0066ff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Motor Power</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W403 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#FF0000">W403</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">2x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1:RD
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ff0000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr>
+    <td><!-- 2_in --></td>
+    <td>
+     2:BU
+    </td>
+    <td><!-- 2_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w2" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#0066ff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Motor Power</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W404 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#FF0000">W404</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">2x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1:RD
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ff0000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr>
+    <td><!-- 2_in --></td>
+    <td>
+     2:BU
+    </td>
+    <td><!-- 2_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w2" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#0066ff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Motor Power</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W405 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#FF0000">W405</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">2x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1:RD
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ff0000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr>
+    <td><!-- 2_in --></td>
+    <td>
+     2:BU
+    </td>
+    <td><!-- 2_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w2" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#0066ff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Motor Power</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W406 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#FF0000">W406</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">2x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1:RD
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ff0000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr>
+    <td><!-- 2_in --></td>
+    <td>
+     2:BU
+    </td>
+    <td><!-- 2_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w2" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#0066ff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Motor Power</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W101 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">W101</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">1x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ffffff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W102 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">W102</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">1x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ffffff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W103 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">W103</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">1x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ffffff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W104 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">W104</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">1x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ffffff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W105 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">W105</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">1x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ffffff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W106 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#00FF00">W106</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">1x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+   <td balign="left">GN</td>
+   <td balign="left" bgcolor="#00FF00" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ffffff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W301 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">W301</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">2x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1:RD
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ff0000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr>
+    <td><!-- 2_in --></td>
+    <td>
+     2:BU
+    </td>
+    <td><!-- 2_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w2" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#0066ff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Motor Power</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W302 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">W302</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">1x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ffffff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
+  </tr></table>
+ </td></tr>
+</table>
+> fillcolor="#FFFFFF" shape=box style=filled]
+	W303 [label=<
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left" bgcolor="#8000FF">W303</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">P/N: ASIN:B08CKRLS2M</td>
+   <td balign="left">KECO</td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Braided Polyethylene</td>
+   <td balign="left">1x</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
+   <td balign="left">1 m</td>
+   <td balign="left">VT</td>
+   <td balign="left" bgcolor="#8000FF" width="4"></td>
+  </tr></table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellborder="0">
+   <tr><td>&nbsp;</td></tr>
+   <tr>
+    <td><!-- 1_in --></td>
+    <td>
+     1
+    </td>
+    <td><!-- 1_out --></td>
+   </tr>
+   <tr>
+    <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
+     <table cellspacing="0" cellborder="0" border="0">
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#ffffff" border="0"></td></tr>
+      <tr><td colspan="3" cellpadding="0" height="2" bgcolor="#000000" border="0"></td></tr>
+     </table>
+    </td>
+   </tr>
+   <tr><td>&nbsp;</td></tr>
+  </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">?</td>
   </tr></table>
  </td></tr>
 </table>
