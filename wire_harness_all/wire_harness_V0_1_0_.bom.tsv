@@ -1,9 +1,0 @@
-Id	Description	Qty	Unit	Designators
-1	Cable, 1 wires	0	m	W-SH-4-B, W-SH-5-B, W-SH-6-B, W-SH-7-B
-2	Cable, 2 wires	0	m	W-SH-3-A, W-SH-4-A, W-SH-5-A, W-SH-6-A, W-SH-7-A
-3	Cable, 4 wires	0	m	W-SH-1-A, W-SH-2-A
-4	Connector, female, 2 pins	1		104J3
-5	Connector, female, 4 pins	4		102J7, 102J8, 104J1, 104J2
-6	Connector, screw terminal, female, 1 pins	3		105PDT0, 105PDT12, 105PDT5
-7	Connector, screw terminal, female, 3 pins	4		104J4, 104J5, 104J6, 104J7
-8	Connector, soldered, female, 2 pins	4		104J10, 104J11, 104J8, 104J9
