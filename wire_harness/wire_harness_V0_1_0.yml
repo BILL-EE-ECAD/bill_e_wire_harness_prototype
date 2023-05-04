@@ -3,7 +3,7 @@
 # ====== Optional Output Options ===== #
 options:
   fontname: arial              # Default = 'arial'
-  mini_bom_mode: False        # Default = True
+  mini_bom_mode: True        # Default = True
 
 
 # ====== Templates for Re-Use ====== # 
@@ -16,10 +16,10 @@ templates:
     pins:
     pinlabels:
     manufacturer: "Taiss"
-    pn: "ASIN: B09ZTWCZ3K"
+    spn: "ASIN: B09ZTWCZ3K"
     color: BK
     bgcolor_title: WH # Background color of title in diagram connector box
-    notes: "Pin Spacing: 2.54mm"
+    notes: ""
     image: 
       src: images_pd\JST_XH_Connector.png
       caption: JST-XH Connector
@@ -33,10 +33,10 @@ templates:
     pins:
     pinlabels: ["?"]
     manufacturer: "?"
-    pn: "?"
+    spn: "ASIN: B0BX9VCTVF"
     color: BK
     bgcolor_title: WH # Background color of title in diagram connector box
-    notes: "?"
+    notes: ""
     image: 
       src: images_pd\ferrule_terminal_generic.png
       caption: Ferrule Terminal
@@ -49,11 +49,11 @@ templates:
     pincount: 2
     pins:
     pinlabels: ["+", "-"]
-    manufacturer: "?"
-    pn: "?"
+    manufacturer: ""
+    pn: ""
     color: BK
     bgcolor_title: WH # Background color of title in diagram connector box
-    notes: "?"
+    notes: ""
     image: 
       src: images_pd\dc_barrel_plug.png
       caption: DC Barrel Plug
@@ -65,11 +65,11 @@ templates:
     subtype: male
     pins:
     pinlabels: ["?"]
-    manufacturer: "?"
-    pn: "?"
+    manufacturer: ""
+    pn: ""
     color: BK
     bgcolor_title: WH # Background color of title in diagram connector box
-    notes: "?"
+    notes: ""
     image: 
       src: images_pd\ring_terminal.png
       caption: Ring Terminal
@@ -84,10 +84,10 @@ templates:
     pinlabels: ["+", "-"]
     pins:
     manufacturer: MCIGICM
-    pn: "ASIN:B07Q2SJSZ1"
+    spn: "ASIN:B07Q2SJSZ1"
     color: BK
     bgcolor_title: WH # Background color of title in diagram connector box
-    notes: "Pin Spacing: 7.00mm"
+    notes: ""
     image: 
       src: images_pd\xt_60_female.png
       caption: XT-60H Connector
@@ -101,10 +101,10 @@ templates:
     pinlabels: ["+", "-"]
     pins:
     manufacturer: SoloGood
-    pn: "ASIN:B074PTHZ3M"
+    spn: "ASIN:B074PTHZ3M"
     color: BK
     bgcolor_title: WH # Background color of title in diagram connector box
-    notes: "Pin Spacing: "
+    notes: ""
     image: 
       src: images_pd\xt_90_female.png
       caption: XT-90 Connector
@@ -128,17 +128,17 @@ templates:
       width: 150
       height: 150
   
-  - &template_usb_b_connector
+  - &template_usb_a_connector
     type: USB Type B Port
     subtype: female
     pincount: 1
     pins:
     pinlabels: ["?"] 
-    manufacturer: "?"
-    pn: "?"
+    manufacturer: ""
+    pn: ""
     color: BK
     bgcolor_title: WH # Background color of title in diagram connector box
-    notes: "?"
+    notes: ""
     image: 
       src: images_pd\usb_b_port.png
       caption: USB Type B Port
@@ -148,7 +148,8 @@ templates:
   - &template_cable
     wirecount:
     # wirelabels: 
-    colors:
+    colors: 
+    color_code: BW
     bgcolor_title:
     type: Braided Polyethylene
     gauge: 22 AWG
@@ -156,7 +157,7 @@ templates:
     length: 1
     manufacturer: KECO  
     pn: "ASIN:B08CKRLS2M"   
-    notes: "?"
+    notes: ""
     
 
   - &template_cable_power_generic
@@ -168,6 +169,7 @@ templates:
 
   - &template_cable_motor_power_generic
     <<: *template_cable
+    gauge: 14 AWG
     wirecount: 2
     colors: [RD, BU]
     bgcolor_title: RD
@@ -178,12 +180,12 @@ templates:
     subtype: female
     pincount: 1
     pins:
-    pinlabels: ["?"] 
-    manufacturer: "?"
-    pn: "?" 
+    pinlabels: ["Ethernet"] 
+    manufacturer: ""
+    pn: "" 
     color: BK
     bgcolor_title: WH # Background color of title in diagram connector box
-    notes: "?"
+    notes: ""
     image: 
       src: images_pd\ethernet_cat6.png
       caption: USB Type B Port
@@ -280,149 +282,158 @@ connectors:
 
   T1-J1:
     <<: *template_terminal_block_connector
-    notes: "12V Rail"
+    notes: "12V+"
     color: LB
     bgcolor_title: LB
 
   T2-J1:
     <<: *template_terminal_block_connector
-    notes: "5V Rail"
+    notes: "5V+"
     color: LB
     bgcolor_title: LB
 
   T3-J1:
     <<: *template_terminal_block_connector
-    notes: "GND Rail"
+    notes: "GND"
     color: LB
     bgcolor_title: LB
 
   # =================== Power Train - (PT) (400) ============= #
-  # bgcolor_title = CU (Copper) 
+  # bgcolor_title = RD (RED) 
   #A1
   A1-J1:
     <<: *template_xt_60_connector
+    pinlabels: ["12V+", "GND"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
       height: 150
       caption: Roboclaw 2x7A Motor Controller
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   A1-J2:
-    <<: *template_usb_b_connector
+    <<: *template_usb_a_connector
     pinlabels: ["USB"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
       height: 150
       caption: Roboclaw 2x7A Motor Controller
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   A1-J3:
     <<: *template_xt_60_connector
+    pinlabels: ["M2A", "M2B"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
       height: 150
       caption: Roboclaw 2x7A Motor Controller
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   A1-J4:
     <<: *template_xt_60_connector
+    pinlabels: ["M1A", "M1B"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
       height: 150
       caption: Roboclaw 2x7A Motor Controller
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   #A2
   A2-J1:
     <<: *template_xt_60_connector
+    pinlabels: ["12V+", "GND"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
       height: 150
       caption: Roboclaw 2x7A Motor Controller
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   A2-J2:
-    <<: *template_usb_b_connector
+    <<: *template_usb_a_connector
     pinlabels: ["USB"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
       height: 150
       caption: Roboclaw 2x7A Motor Controller
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   A2-J3:
     <<: *template_xt_60_connector
+    pinlabels: ["M2A", "M2B"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
       height: 150
       caption: Roboclaw 2x7A Motor Controller
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   A2-J4:
     <<: *template_xt_60_connector
+    pinlabels: ["M1A", "M1B"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
       height: 150
       caption: Roboclaw 2x7A Motor Controller
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   # A3
   A3-J1:
     <<: *template_xt_60_connector
+    pinlabels: ["12V+", "GND"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
       height: 150
       caption: Roboclaw 2x7A Motor Controller
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   A3-J2:
-    <<: *template_usb_b_connector
+    <<: *template_usb_a_connector
     pinlabels: ["USB"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
       height: 150
       caption: Roboclaw 2x7A Motor Controller
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   A3-J3:
     <<: *template_xt_60_connector
+    pinlabels: ["M2A", "M2B"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
       height: 150
       caption: Roboclaw 2x7A Motor Controller
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   A3-J4:
     <<: *template_xt_60_connector
+    pinlabels: ["M1A", "M1B"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
       height: 150
       caption: Roboclaw 2x7A Motor Controller
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   #M1
   M1-J1:
@@ -432,8 +443,8 @@ connectors:
       width: 150
       height: 150
       caption: 755 Redline Motor
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
   #M2
   M2-J1:
     <<: *template_xt_60_connector
@@ -442,8 +453,8 @@ connectors:
       width: 150
       height: 150
       caption: 755 Redline Motor
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
   #M3
   M3-J1:
     <<: *template_xt_60_connector
@@ -452,8 +463,8 @@ connectors:
       width: 150
       height: 150
       caption: 755 Redline Motor
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
   #M4
   M4-J1:
     <<: *template_xt_60_connector
@@ -462,8 +473,8 @@ connectors:
       width: 150
       height: 150
       caption: 755 Redline Motor
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
   #M5
   M5-J1:
     <<: *template_xt_60_connector
@@ -472,8 +483,8 @@ connectors:
       width: 150
       height: 150
       caption: 755 Redline Motor
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
   #M6
   M6-J1:
     <<: *template_xt_60_connector
@@ -482,8 +493,8 @@ connectors:
       width: 150
       height: 150
       caption: 755 Redline Motor
-    color: CU
-    bgcolor_title: CU
+    color: RD
+    bgcolor_title: RD
 
   # ========== Computer (C) (100) =========== #
   # GN
@@ -491,6 +502,7 @@ connectors:
   # A7
   A7-J1:
     <<: *template_dc_barrel_plug
+    pinlabels: ["DC+","DC-"]
     image: 
       src: images_pd\jetson_nvidia_4_gb.png
       width: 150
@@ -522,6 +534,7 @@ connectors:
 
   A8-J2:
     <<: *template_xt_60_connector
+    pinlabels: ["5V+","GND"]
     image: 
       src: images_pd\raspberry_pi_4.png
       width: 150
@@ -531,7 +544,8 @@ connectors:
     bgcolor_title: GN
 
   A8-J3:
-    <<: *template_usb_b_connector
+    <<: *template_usb_a_connector
+    pinlabels: ["USB Type A"]
     image: 
       src: images_pd\raspberry_pi_4.png
       width: 150
@@ -541,7 +555,8 @@ connectors:
     bgcolor_title: GN
 
   A8-J4:
-    <<: *template_usb_b_connector
+    <<: *template_usb_a_connector
+    pinlabels: ["USB Type A"]
     image: 
       src: images_pd\raspberry_pi_4.png
       width: 150
@@ -551,7 +566,8 @@ connectors:
     bgcolor_title: GN
 
   A8-J5:
-    <<: *template_usb_b_connector
+    <<: *template_usb_a_connector
+    pinlabels: ["USB Type A"]
     image: 
       src: images_pd\raspberry_pi_4.png
       width: 150
@@ -575,7 +591,7 @@ connectors:
   A8-J7:
     <<: *template_jst_sh_connector
     pincount: 2
-    pinlabels: [IN1, IN2]
+    pinlabels: [GPIO 23, GPIO 24]
     image: 
       src: images_pd\raspberry_pi_4.png
       width: 150
@@ -587,7 +603,7 @@ connectors:
   A8-J8:
     <<: *template_jst_sh_connector
     pincount: 2
-    pinlabels: [IN1, IN2]
+    pinlabels: [GPIO 17, GPIO 27]
     image: 
       src: images_pd\raspberry_pi_4.png
       width: 150
@@ -612,6 +628,7 @@ connectors:
 
   A9-J1.1:
     <<: *template_ferrule_terminal
+    pinlabels: ["12V+"]
     image: 
       src: images_pd\L298_dual_h_bridge.png
       width: 150
@@ -622,6 +639,7 @@ connectors:
 
   A9-J1.2:
     <<: *template_ferrule_terminal
+    pinlabels: ["GND"]
     image: 
       src: images_pd\L298_dual_h_bridge.png
       width: 150
@@ -644,6 +662,7 @@ connectors:
 
   A9-J3:
     <<: *template_xt_60_connector
+    pinlabels: ["OUT1", "OUT2"]
     image: 
       src: images_pd\L298_dual_h_bridge.png
       width: 150
@@ -654,6 +673,7 @@ connectors:
 
   A10-J1:
     <<: *template_xt_60_connector
+    pinlabels: ["5V+", "GND"]
     image: 
       src: images_pd\5_channel_relay_5V.png
       width: 150
@@ -682,7 +702,7 @@ connectors:
       height: 150
       caption: 4 5V Channel Relay
     pincount: 2
-    pinlabels: ["+", "COM2"]
+    pinlabels: ["COM2", "NO2"]
     color: VT
     bgcolor_title: VT
   
@@ -694,7 +714,7 @@ connectors:
       height: 150
       caption: 4 5V Channel Relay
     pincount: 2
-    pinlabels: ["+", "COM1"]
+    pinlabels: ["COM1", "NO1"]
     color: VT
     bgcolor_title: VT
 
@@ -707,7 +727,7 @@ connectors:
       height: 150
       caption: 12V Blower Fan
     pincount: 2
-    pinlabels: ["+", "COM1"]
+    pinlabels: ["DC+", "DC-"]
     color: VT
     bgcolor_title: VT
 
@@ -719,7 +739,7 @@ connectors:
       height: 150
       caption: 12V Dosing Pump
     pincount: 2
-    pinlabels: ["+", "COM2"]
+    pinlabels: ["DC+", "DC-"]
     color: VT
     bgcolor_title: VT
   
@@ -731,7 +751,7 @@ connectors:
       height: 150
       caption: 12V Dosing Pump
     pincount: 2
-    pinlabels: ["+", "-"]
+    pinlabels: ["DC+", "DC-"]
     color: VT
     bgcolor_title: VT
 
@@ -740,27 +760,35 @@ connectors:
 cables:
   #Define cables from the wire harness block diagram
   # ================== Power Distribution - (PD) (000) =============== #
-    W001A: *template_cable_power_generic
+    W001A: 
+      <<: *template_cable_power_generic
+      gauge: 14 AWG
     W001B:
       <<: *template_cable
+      gauge: 14 AWG
       wirecount: 1
       colors: [RD]
       bgcolor_title: LB
 
-    W003A: *template_cable_power_generic
+    W003A: 
+      <<: *template_cable_power_generic
+      gauge: 14 AWG
 
     W003B:
       <<: *template_cable
+      gauge: 14 AWG
       wirecount: 1
       colors: [RD]
       bgcolor_title: LB
 
     W003C: 
       <<: *template_cable_power_generic
+      gauge: 14 AWG
       colors: [BU, BU]
 
     W004A:
       <<: *template_cable
+      gauge: 14 AWG
       wirecount: 1
       colors: [RD]
       bgcolor_title: LB
@@ -805,6 +833,7 @@ cables:
       bgcolor_title: GN
     W105:
       <<: *template_cable
+      colors: ["RD", "GY", "BU", "OG", "BK"] 
       wirecount: 5
       color: GN
       bgcolor_title: GN
@@ -1016,7 +1045,7 @@ connections:
     - A10-J1: [2]
 
   - # T2 & T3 -> A10 (RELAY)
-    - T2-J1: [10]
+    - T2-J1: [6]
     - W006: [1]
   - 
     - W006: [1]
