@@ -20,7 +20,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-90S</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -160,7 +160,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-90S</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -182,7 +182,7 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\XT_60_Y_Splitter.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\XT_90_Y_Splitter.png"/></td>
     </tr></table>
    </td>
   </tr></table>
@@ -210,7 +210,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-90S</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -232,7 +232,7 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\XT_60_Y_Splitter.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\XT_90_Y_Splitter.png"/></td>
     </tr></table>
    </td>
   </tr></table>
@@ -260,7 +260,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-90S</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -282,7 +282,7 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\XT_60_Y_Splitter.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\XT_90_Y_Splitter.png"/></td>
     </tr></table>
    </td>
   </tr></table>
@@ -303,14 +303,14 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">MCIGICM</td>
-   <td balign="left">SPN: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">SoloGood</td>
+   <td balign="left">SPN: ASIN:B074PTHZ3M</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">XT-90S</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -332,14 +332,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\XT_60_Y_Splitter.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\XT_90_Y_Splitter.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60 Splitter</td>
+   <td balign="left" sides="BLR">XT-90 Splitter</td>
   </tr></table>
  </td></tr>
 </table>
@@ -353,13 +353,13 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">MCIGICM</td>
-   <td balign="left">SPN: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">SoloGood</td>
+   <td balign="left">SPN: ASIN:B074PTHZ3M</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">XT-60H</td>
+   <td balign="left">XT-90S</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
    <td balign="left">LB</td>
@@ -382,14 +382,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\XT_60_Y_Splitter.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\XT_90_Y_Splitter.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60 Splitter</td>
+   <td balign="left" sides="BLR">XT-90 Splitter</td>
   </tr></table>
  </td></tr>
 </table>
@@ -403,13 +403,13 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">MCIGICM</td>
-   <td balign="left">SPN: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">SoloGood</td>
+   <td balign="left">SPN: ASIN:B074PTHZ3M</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">XT-60H</td>
+   <td balign="left">XT-90S</td>
    <td balign="left">female</td>
    <td balign="left">2-pin</td>
    <td balign="left">LB</td>
@@ -432,14 +432,14 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left" sides="TLR">
     <table border="0" cellspacing="0" cellborder="0"><tr>
-     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\XT_60_Y_Splitter.png"/></td>
+     <td width="150" height="150" fixedsize="true"><img scale="both" src="images_pd\XT_90_Y_Splitter.png"/></td>
     </tr></table>
    </td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left" sides="BLR">XT-60 Splitter</td>
+   <td balign="left" sides="BLR">XT-90 Splitter</td>
   </tr></table>
  </td></tr>
 </table>
@@ -460,7 +460,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-90S</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -510,7 +510,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-90S</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -560,7 +560,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-90S</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -610,7 +610,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-90S</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -659,8 +659,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Screw Terminal</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule</td>
+   <td balign="left">male</td>
    <td balign="left">10-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -746,8 +746,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Screw Terminal</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule</td>
+   <td balign="left">male</td>
    <td balign="left">10-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -833,8 +833,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Screw Terminal</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule</td>
+   <td balign="left">male</td>
    <td balign="left">10-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -920,8 +920,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Screw Terminal</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule</td>
+   <td balign="left">male</td>
    <td balign="left">10-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -1007,8 +1007,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Screw Terminal</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule</td>
+   <td balign="left">male</td>
    <td balign="left">10-pin</td>
    <td balign="left">LB</td>
    <td balign="left" bgcolor="#A0DFFF" width="4"></td>
@@ -1095,7 +1095,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1138,8 +1138,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">USB Type B Port</td>
-   <td balign="left">female</td>
+   <td balign="left">USB Type B Mini</td>
+   <td balign="left">male</td>
    <td balign="left">1-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1178,14 +1178,14 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">MCIGICM</td>
-   <td balign="left">SPN: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">WSLLM</td>
+   <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1217,6 +1217,11 @@ graph {
    <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ferrule terminal for each channel</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	"A1-J4" [label=<
@@ -1228,14 +1233,14 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">MCIGICM</td>
-   <td balign="left">SPN: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">WSLLM</td>
+   <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1267,6 +1272,11 @@ graph {
    <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ferrule terminal for each channel</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	"A2-J1" [label=<
@@ -1285,7 +1295,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1328,8 +1338,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">USB Type B Port</td>
-   <td balign="left">female</td>
+   <td balign="left">USB Type B Mini</td>
+   <td balign="left">male</td>
    <td balign="left">1-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1368,14 +1378,14 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">MCIGICM</td>
-   <td balign="left">SPN: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">WSLLM</td>
+   <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1407,6 +1417,11 @@ graph {
    <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ferrule terminal for each channel</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	"A2-J4" [label=<
@@ -1418,14 +1433,14 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">MCIGICM</td>
-   <td balign="left">SPN: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">WSLLM</td>
+   <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1457,6 +1472,11 @@ graph {
    <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ferrule terminal for each channel</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	"A3-J1" [label=<
@@ -1475,7 +1495,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1518,8 +1538,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">USB Type B Port</td>
-   <td balign="left">female</td>
+   <td balign="left">USB Type B Mini</td>
+   <td balign="left">male</td>
    <td balign="left">1-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1558,14 +1578,14 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">MCIGICM</td>
-   <td balign="left">SPN: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">WSLLM</td>
+   <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1597,6 +1617,11 @@ graph {
    <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ferrule terminal for each channel</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	"A3-J4" [label=<
@@ -1608,14 +1633,14 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">MCIGICM</td>
-   <td balign="left">SPN: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">WSLLM</td>
+   <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1647,6 +1672,11 @@ graph {
    <td balign="left" sides="BLR">Roboclaw 2x7A Motor Controller</td>
   </tr></table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ferrule terminal for each channel</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	"M1-J1" [label=<
@@ -1665,7 +1695,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1715,7 +1745,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1765,7 +1795,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1815,7 +1845,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1865,7 +1895,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -1915,7 +1945,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">RD</td>
    <td balign="left" bgcolor="#FF0000" width="4"></td>
@@ -2002,8 +2032,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Ethernet Port</td>
-   <td balign="left">female</td>
+   <td balign="left">Ethernet</td>
+   <td balign="left">male</td>
    <td balign="left">1-pin</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
@@ -2042,8 +2072,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Ethernet Port</td>
-   <td balign="left">female</td>
+   <td balign="left">Ethernet</td>
+   <td balign="left">male</td>
    <td balign="left">1-pin</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
@@ -2089,7 +2119,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
@@ -2132,8 +2162,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">USB Type B Port</td>
-   <td balign="left">female</td>
+   <td balign="left">USB Type A Port</td>
+   <td balign="left">male</td>
    <td balign="left">1-pin</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
@@ -2172,8 +2202,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">USB Type B Port</td>
-   <td balign="left">female</td>
+   <td balign="left">USB Type A Port</td>
+   <td balign="left">male</td>
    <td balign="left">1-pin</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
@@ -2212,8 +2242,8 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">USB Type B Port</td>
-   <td balign="left">female</td>
+   <td balign="left">USB Type A Port</td>
+   <td balign="left">male</td>
    <td balign="left">1-pin</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
@@ -2259,7 +2289,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">JST-XH</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">5-pin</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
@@ -2321,7 +2351,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">JST-XH</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
@@ -2371,7 +2401,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">JST-XH</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
@@ -2421,7 +2451,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">JST-XH</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">5-pin</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
@@ -2476,7 +2506,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">?</td>
+   <td balign="left">WSLLM</td>
    <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
@@ -2522,7 +2552,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">?</td>
+   <td balign="left">WSLLM</td>
    <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
@@ -2575,7 +2605,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">JST-XH</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
@@ -2618,14 +2648,14 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">MCIGICM</td>
-   <td balign="left">SPN: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">WSLLM</td>
+   <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
@@ -2668,14 +2698,14 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">MCIGICM</td>
-   <td balign="left">SPN: ASIN:B07Q2SJSZ1</td>
+   <td balign="left">WSLLM</td>
+   <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">XT-60H</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
@@ -2707,6 +2737,11 @@ graph {
    <td balign="left" sides="BLR">4 5V Channel Relay</td>
   </tr></table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ferrule terminal per channel</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	"A10-J2" [label=<
@@ -2718,14 +2753,14 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Taiss</td>
-   <td balign="left">SPN: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">WSLLM</td>
+   <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">JST-XH</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
@@ -2757,6 +2792,11 @@ graph {
    <td balign="left" sides="BLR">4 5V Channel Relay</td>
   </tr></table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ferrule terminal per channel</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	"A10-J3" [label=<
@@ -2768,14 +2808,14 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Taiss</td>
-   <td balign="left">SPN: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">WSLLM</td>
+   <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">JST-XH</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
@@ -2809,6 +2849,11 @@ graph {
    <td balign="left" sides="BLR">4 5V Channel Relay</td>
   </tr></table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ferrule terminal per channel</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	"A10-J4" [label=<
@@ -2820,14 +2865,14 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Taiss</td>
-   <td balign="left">SPN: ASIN: B09ZTWCZ3K</td>
+   <td balign="left">WSLLM</td>
+   <td balign="left">SPN: ASIN: B0BX9VCTVF</td>
   </tr></table>
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">JST-XH</td>
-   <td balign="left">female</td>
+   <td balign="left">Ferrule Terminal</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
@@ -2861,6 +2906,11 @@ graph {
    <td balign="left" sides="BLR">4 5V Channel Relay</td>
   </tr></table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ferrule terminal per channel</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	"M7-J1" [label=<
@@ -2879,7 +2929,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">JST-XH</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
@@ -2929,7 +2979,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">JST-XH</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
@@ -2979,7 +3029,7 @@ graph {
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">JST-XH</td>
-   <td balign="left">female</td>
+   <td balign="left">male</td>
    <td balign="left">2-pin</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
@@ -3135,12 +3185,12 @@ graph {
  </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
-	edge [color="#000000:#ff0000:#000000"]
-	"S1-J2":p1r:e -- W002:w1:w
-	W002:w1:e -- "T5-J1":p1l:w
 	edge [color="#000000:#0066ff:#000000"]
 	"S1-J2":p2r:e -- W002:w2:w
-	W002:w2:e -- "T4-J1":p1l:w
+	W002:w2:e -- "T5-J1":p1l:w
+	edge [color="#000000:#ff0000:#000000"]
+	"S1-J2":p1r:e -- W002:w1:w
+	W002:w1:e -- "T4-J1":p1l:w
 	W002 [label=<
 <table border="0" cellspacing="0" cellpadding="0">
  <tr><td>
@@ -3170,7 +3220,7 @@ graph {
     <td>
      1:RD
     </td>
-    <td>T5-J1:1</td>
+    <td>T4-J1:1</td>
    </tr>
    <tr>
     <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w1" height="6">
@@ -3186,7 +3236,7 @@ graph {
     <td>
      2:BU
     </td>
-    <td>T4-J1:1</td>
+    <td>T5-J1:1</td>
    </tr>
    <tr>
     <td colspan="3" border="0" cellspacing="0" cellpadding="0" port="w2" height="6">
@@ -5068,7 +5118,7 @@ graph {
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
-   <td balign="left">14 AWG (2.5 mm²)</td>
+   <td balign="left">22 AWG (0.34 mm²)</td>
    <td balign="left">1 m</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>

@@ -11,7 +11,7 @@ options:
 templates:
   - &template_jst_sh_connector
     type: JST-XH
-    subtype: female
+    subtype: male
     pincount:
     pins:
     pinlabels:
@@ -32,7 +32,7 @@ templates:
     pincount: 1
     pins:
     pinlabels: ["?"]
-    manufacturer: "?"
+    manufacturer: "WSLLM"
     spn: "ASIN: B0BX9VCTVF"
     color: BK
     bgcolor_title: WH # Background color of title in diagram connector box
@@ -79,7 +79,7 @@ templates:
 
   - &template_xt_60_connector
     type: XT-60H
-    subtype: female
+    subtype: male
     pincount: 2
     pinlabels: ["+", "-"]
     pins:
@@ -96,7 +96,7 @@ templates:
 
   - &template_xt_90_connector
     type: XT-90S
-    subtype: female
+    subtype: male
     pincount: 2
     pinlabels: ["+", "-"]
     pins:
@@ -112,8 +112,8 @@ templates:
       height: 150
 
   - &template_terminal_block_connector
-    type: Screw Terminal
-    subtype: female
+    type: Ferrule
+    subtype: male
     pincount: 10
     pins:
     # pinlabels: 
@@ -129,11 +129,11 @@ templates:
       height: 150
   
   - &template_usb_a_connector
-    type: USB Type B Port
-    subtype: female
+    type: USB Type A Port
+    subtype: male
     pincount: 1
     pins:
-    pinlabels: ["?"] 
+    pinlabels: [""] 
     manufacturer: ""
     pn: ""
     color: BK
@@ -141,10 +141,29 @@ templates:
     notes: ""
     image: 
       src: images_pd\usb_b_port.png
-      caption: USB Type B Port
+      caption: USB Type A Port
       width: 150
       height: 150
 
+  - &template_ethernet
+    type: Ethernet
+    subtype: male
+    pincount: 1
+    pins:
+    pinlabels: ["Ethernet"] 
+    manufacturer: ""
+    pn: "" 
+    color: BK
+    bgcolor_title: WH # Background color of title in diagram connector box
+    notes: ""
+    image: 
+      src: images_pd\ethernet_cat6.png
+      caption: Male Ethernet Cat6
+      width: 150
+      height: 150
+
+  
+  # ===== Cable Templates ===== #
   - &template_cable
     wirecount:
     # wirelabels: 
@@ -175,22 +194,7 @@ templates:
     bgcolor_title: RD
     notes: "Motor Power"
 
-  - &template_ethernet
-    type: Ethernet Port
-    subtype: female
-    pincount: 1
-    pins:
-    pinlabels: ["Ethernet"] 
-    manufacturer: ""
-    pn: "" 
-    color: BK
-    bgcolor_title: WH # Background color of title in diagram connector box
-    notes: ""
-    image: 
-      src: images_pd\ethernet_cat6.png
-      caption: USB Type B Port
-      width: 150
-      height: 150
+  
 
 
 # define all the connectors in the harness
@@ -235,62 +239,68 @@ connectors:
   # S1 Splitter
   S1-J1:
     <<: *template_xt_90_connector
+    subtype: male
     color: LB
     bgcolor_title: LB
     image: 
-      src: images_pd\XT_60_Y_Splitter.png
+      src: images_pd\XT_90_Y_Splitter.png
       caption: XT-90 Splitter
       width: 150
       height: 150
 
   S1-J2:
     <<: *template_xt_90_connector
+    subtype: male
     color: LB
     bgcolor_title: LB
     image: 
-      src: images_pd\XT_60_Y_Splitter.png
+      src: images_pd\XT_90_Y_Splitter.png
       caption: XT-90 Splitter
       width: 150
       height: 150
 
   S1-J3:
     <<: *template_xt_90_connector
+    subtype: male
     color: LB
     bgcolor_title: LB
     image: 
-      src: images_pd\XT_60_Y_Splitter.png
+      src: images_pd\XT_90_Y_Splitter.png
       caption: XT-90 Splitter
       width: 150
       height: 150
     
   # S2 Splitter
   S2-J1:
-    <<: *template_xt_60_connector
+    <<: *template_xt_90_connector
+    subtype: male
     color: LB
     bgcolor_title: LB
     image: 
-      src: images_pd\XT_60_Y_Splitter.png
-      caption: XT-60 Splitter
+      src: images_pd\XT_90_Y_Splitter.png
+      caption: XT-90 Splitter
       width: 150
       height: 150
 
   S2-J2:
-    <<: *template_xt_60_connector
+    <<: *template_xt_90_connector
+    subtype: female
     color: LB
     bgcolor_title: LB
     image: 
-      src: images_pd\XT_60_Y_Splitter.png
-      caption: XT-60 Splitter
+      src: images_pd\XT_90_Y_Splitter.png
+      caption: XT-90 Splitter
       width: 150
       height: 150
 
   S2-J3:
-    <<: *template_xt_60_connector
+    <<: *template_xt_90_connector
+    subtype: female
     color: LB
     bgcolor_title: LB
     image: 
-      src: images_pd\XT_60_Y_Splitter.png
-      caption: XT-60 Splitter
+      src: images_pd\XT_90_Y_Splitter.png
+      caption: XT-90 Splitter
       width: 150
       height: 150
 
@@ -389,6 +399,7 @@ connectors:
 
   A1-J2:
     <<: *template_usb_a_connector
+    type: USB Type B Mini
     pinlabels: ["USB"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
@@ -399,7 +410,9 @@ connectors:
     bgcolor_title: RD
 
   A1-J3:
-    <<: *template_xt_60_connector
+    <<: *template_ferrule_terminal
+    pincount: 2
+    notes: Ferrule terminal for each channel
     pinlabels: ["M2A", "M2B"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
@@ -410,7 +423,9 @@ connectors:
     bgcolor_title: RD
 
   A1-J4:
-    <<: *template_xt_60_connector
+    <<: *template_ferrule_terminal
+    pincount: 2
+    notes: Ferrule terminal for each channel
     pinlabels: ["M1A", "M1B"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
@@ -434,6 +449,7 @@ connectors:
 
   A2-J2:
     <<: *template_usb_a_connector
+    type: USB Type B Mini
     pinlabels: ["USB"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
@@ -444,7 +460,9 @@ connectors:
     bgcolor_title: RD
 
   A2-J3:
-    <<: *template_xt_60_connector
+    <<: *template_ferrule_terminal
+    pincount: 2
+    notes: Ferrule terminal for each channel
     pinlabels: ["M2A", "M2B"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
@@ -455,7 +473,9 @@ connectors:
     bgcolor_title: RD
 
   A2-J4:
-    <<: *template_xt_60_connector
+    <<: *template_ferrule_terminal
+    pincount: 2
+    notes: Ferrule terminal for each channel
     pinlabels: ["M1A", "M1B"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
@@ -479,6 +499,7 @@ connectors:
 
   A3-J2:
     <<: *template_usb_a_connector
+    type: USB Type B Mini
     pinlabels: ["USB"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
@@ -489,7 +510,9 @@ connectors:
     bgcolor_title: RD
 
   A3-J3:
-    <<: *template_xt_60_connector
+    <<: *template_ferrule_terminal
+    pincount: 2
+    notes: Ferrule terminal for each channel
     pinlabels: ["M2A", "M2B"]
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
@@ -500,8 +523,10 @@ connectors:
     bgcolor_title: RD
 
   A3-J4:
-    <<: *template_xt_60_connector
+    <<: *template_ferrule_terminal
+    pincount: 2
     pinlabels: ["M1A", "M1B"]
+    notes: Ferrule terminal for each channel
     image: 
       src: images_pd\roboclaw_2x7A_motor_controller.png
       width: 150
@@ -736,7 +761,9 @@ connectors:
     bgcolor_title: VT
 
   A9-J3:
-    <<: *template_xt_60_connector
+    <<: *template_ferrule_terminal
+    subtype: male
+    pincount: 2
     pinlabels: ["OUT1", "OUT2"]
     image: 
       src: images_pd\L298_dual_h_bridge.png
@@ -747,7 +774,9 @@ connectors:
     bgcolor_title: VT
 
   A10-J1:
-    <<: *template_xt_60_connector
+    <<: *template_ferrule_terminal
+    pincount: 2
+    notes: Ferrule terminal per channel
     pinlabels: ["5V+", "GND"]
     image: 
       src: images_pd\5_channel_relay_5V.png
@@ -758,8 +787,9 @@ connectors:
     bgcolor_title: VT
   
   A10-J2:
-    <<: *template_jst_sh_connector
+    <<: *template_ferrule_terminal
     pincount: 2
+    notes: Ferrule terminal per channel
     pinlabels: [IN1, IN2]
     image: 
       src: images_pd\5_channel_relay_5V.png
@@ -770,25 +800,27 @@ connectors:
     bgcolor_title: VT
   
   A10-J3:
-    <<: *template_jst_sh_connector
+    <<: *template_ferrule_terminal
+    pincount: 2
+    notes: Ferrule terminal per channel
     image: 
       src: images_pd\5_channel_relay_5V.png
       width: 150
       height: 150
       caption: 4 5V Channel Relay
-    pincount: 2
     pinlabels: ["COM2", "NO2"]
     color: VT
     bgcolor_title: VT
   
   A10-J4:
-    <<: *template_jst_sh_connector
+    <<: *template_ferrule_terminal
+    pincount: 2
+    notes: Ferrule terminal per channel
     image: 
       src: images_pd\5_channel_relay_5V.png
       width: 150
       height: 150
       caption: 4 5V Channel Relay
-    pincount: 2
     pinlabels: ["COM1", "NO1"]
     color: VT
     bgcolor_title: VT
@@ -917,6 +949,7 @@ cables:
   # VT = Violet
     W301:
       <<: *template_cable_motor_power_generic
+      gauge: 22 AWG
       color: VT
       bgcolor_title: VT
 
@@ -953,14 +986,14 @@ connections:
     - S1-J1: [1]
 
   # ====== Internal Power Distribution Connections (PD) (000) ===== #
-  - # S1 -> T5
-    - S1-J2: [1]
-    - W002: [1]
-    - T5-J1: [1]
-
-  - # S1 -> T4
+  - # S1 -> T5 (GND_BAT)
     - S1-J2: [2]
     - W002: [2]
+    - T5-J1: [1]
+
+  - # S1 -> T4 (12V_BAT)
+    - S1-J2: [1]
+    - W002: [1]
     - T4-J1: [1]
 
   - # S1 -> VR1
