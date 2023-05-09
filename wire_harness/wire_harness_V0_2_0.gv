@@ -3089,7 +3089,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">14 AWG (2.5 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">10.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3132,7 +3132,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Power from Power Distribution</td>
+   <td balign="left">GND Conductor is 23 in length</td>
   </tr></table>
  </td></tr>
 </table>
@@ -3158,7 +3158,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">1x</td>
    <td balign="left">14 AWG (2.5 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">13.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3209,7 +3209,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">13.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3281,7 +3281,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">10.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3353,7 +3353,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">5.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3425,7 +3425,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">7.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3497,7 +3497,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">5.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3569,7 +3569,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">7.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3641,7 +3641,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">12.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3684,7 +3684,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Power from Power Distribution</td>
+   <td balign="left">Motor Controllers are on second layer</td>
   </tr></table>
  </td></tr>
 </table>
@@ -3713,7 +3713,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">12.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3756,7 +3756,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Power from Power Distribution</td>
+   <td balign="left">Motor Controllers are on second layer</td>
   </tr></table>
  </td></tr>
 </table>
@@ -3785,7 +3785,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">12.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3828,7 +3828,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Power from Power Distribution</td>
+   <td balign="left">Motor Controllers are on second layer</td>
   </tr></table>
  </td></tr>
 </table>
@@ -3857,7 +3857,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">9.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3898,11 +3898,6 @@ graph {
    <tr><td>&nbsp;</td></tr>
   </table>
  </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Power from Power Distribution</td>
-  </tr></table>
- </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	edge [color="#000000:#ff0000:#000000"]
@@ -3929,7 +3924,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">8.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -3972,7 +3967,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Power from Power Distribution</td>
+   <td balign="left">Use Raspberry PI GPIO 5V in pins</td>
   </tr></table>
  </td></tr>
 </table>
@@ -4001,7 +3996,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">15.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -4042,11 +4037,6 @@ graph {
    <tr><td>&nbsp;</td></tr>
   </table>
  </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Power from Power Distribution</td>
-  </tr></table>
- </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	edge [color="#000000:#ff0000:#000000"]
@@ -4073,7 +4063,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">15.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -4114,11 +4104,6 @@ graph {
    <tr><td>&nbsp;</td></tr>
   </table>
  </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Power from Power Distribution</td>
-  </tr></table>
- </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	edge [color="#000000:#ff0000:#000000"]
@@ -4151,7 +4136,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">15.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -4194,7 +4179,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Power from Power Distribution</td>
+   <td balign="left">GND and PWR conductors are same length.</td>
   </tr></table>
  </td></tr>
 </table>
@@ -4223,7 +4208,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">14 AWG (2.5 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">41.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -4266,7 +4251,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Motor Power</td>
+   <td balign="left">To the Front Right Motor M1</td>
   </tr></table>
  </td></tr>
 </table>
@@ -4295,7 +4280,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">14 AWG (2.5 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">41.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -4338,7 +4323,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Motor Power</td>
+   <td balign="left">To the Front Left Motor M2</td>
   </tr></table>
  </td></tr>
 </table>
@@ -4367,7 +4352,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">14 AWG (2.5 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">41.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -4410,7 +4395,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Motor Power</td>
+   <td balign="left">To the Middle right motor M3</td>
   </tr></table>
  </td></tr>
 </table>
@@ -4439,7 +4424,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">14 AWG (2.5 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">41.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -4482,7 +4467,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Motor Power</td>
+   <td balign="left">To the Middle Left motor M4</td>
   </tr></table>
  </td></tr>
 </table>
@@ -4511,7 +4496,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">14 AWG (2.5 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">41.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -4554,7 +4539,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Motor Power</td>
+   <td balign="left">To the back Right motor M5</td>
   </tr></table>
  </td></tr>
 </table>
@@ -4583,7 +4568,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">14 AWG (2.5 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">41.0 in</td>
   </tr></table>
  </td></tr>
  <tr><td>
@@ -4626,7 +4611,7 @@ graph {
  </td></tr>
  <tr><td>
   <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Motor Power</td>
+   <td balign="left">To the back left motor M6</td>
   </tr></table>
  </td></tr>
 </table>
@@ -4652,7 +4637,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">1x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">20.0 in</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
   </tr></table>
@@ -4679,6 +4664,11 @@ graph {
    <tr><td>&nbsp;</td></tr>
   </table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">USB Cable larger than this length</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	edge [color="#000000:#000000:#000000"]
@@ -4702,7 +4692,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">1x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">20.0 in</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
   </tr></table>
@@ -4729,6 +4719,11 @@ graph {
    <tr><td>&nbsp;</td></tr>
   </table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">USB Cable larger than this length</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	edge [color="#000000:#000000:#000000"]
@@ -4752,7 +4747,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">1x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">20.0 in</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
   </tr></table>
@@ -4778,6 +4773,11 @@ graph {
    </tr>
    <tr><td>&nbsp;</td></tr>
   </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">USB Cable larger than this length</td>
+  </tr></table>
  </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
@@ -4805,7 +4805,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">22.0 in</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
   </tr></table>
@@ -4883,7 +4883,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">5x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">22.0 in</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
   </tr></table>
@@ -4997,7 +4997,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">1x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">10.0 in</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
   </tr></table>
@@ -5023,6 +5023,11 @@ graph {
    </tr>
    <tr><td>&nbsp;</td></tr>
   </table>
+ </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">Ethernet should be around this length</td>
+  </tr></table>
  </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
@@ -5050,7 +5055,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">22.0 in</td>
    <td balign="left">GN</td>
    <td balign="left" bgcolor="#00FF00" width="4"></td>
   </tr></table>
@@ -5119,7 +5124,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">2x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">10.0 in</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
   </tr></table>
@@ -5162,11 +5167,6 @@ graph {
    <tr><td>&nbsp;</td></tr>
   </table>
  </td></tr>
- <tr><td>
-  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
-   <td balign="left">Motor Power</td>
-  </tr></table>
- </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	edge [color="#000000:#000000:#000000"]
@@ -5190,7 +5190,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">1x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">16.0 in</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
   </tr></table>
@@ -5217,6 +5217,11 @@ graph {
    <tr><td>&nbsp;</td></tr>
   </table>
  </td></tr>
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="3" cellborder="1"><tr>
+   <td balign="left">use the built-in Fan JST connector and add on to it</td>
+  </tr></table>
+ </td></tr>
 </table>
 > fillcolor="#FFFFFF" shape=box style=filled]
 	edge [color="#000000:#000000:#000000"]
@@ -5240,7 +5245,7 @@ graph {
    <td balign="left">Braided Polyethylene</td>
    <td balign="left">1x</td>
    <td balign="left">22 AWG (0.34 mm²)</td>
-   <td balign="left">1 m</td>
+   <td balign="left">10.0 in</td>
    <td balign="left">VT</td>
    <td balign="left" bgcolor="#8000FF" width="4"></td>
   </tr></table>

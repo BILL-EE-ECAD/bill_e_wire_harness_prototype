@@ -1,12 +1,12 @@
 Id	Description	Qty	Unit	Designators	P/N	Manufacturer	SPN
-1	Cable, Braided Polyethylene, 1 x 14 AWG	1	m	W001B	ASIN:B08CKRLS2M	KECO	
-2	Cable, Braided Polyethylene, 1 x 22 AWG, GN	4	m	W101, W102, W103, W106	ASIN:B08CKRLS2M	KECO	
-3	Cable, Braided Polyethylene, 1 x 22 AWG, VT	2	m	W302, W303	ASIN:B08CKRLS2M	KECO	
-4	Cable, Braided Polyethylene, 2 x 14 AWG	7	m	W001A, W401, W402, W403, W404, W405, W406	ASIN:B08CKRLS2M	KECO	
-5	Cable, Braided Polyethylene, 2 x 22 AWG	14	m	W002, W003, W004, W005, W006, W007, W008, W009, W010, W011, W012, W013, W014, W015	ASIN:B08CKRLS2M	KECO	
-6	Cable, Braided Polyethylene, 2 x 22 AWG, GN	2	m	W104, W107	ASIN:B08CKRLS2M	KECO	
-7	Cable, Braided Polyethylene, 2 x 22 AWG, VT	1	m	W301	ASIN:B08CKRLS2M	KECO	
-8	Cable, Braided Polyethylene, 5 x 22 AWG, GN	1	m	W105	ASIN:B08CKRLS2M	KECO	
+1	Cable, Braided Polyethylene, 1 x 14 AWG	13.0	in	W001B	ASIN:B08CKRLS2M	KECO	
+2	Cable, Braided Polyethylene, 1 x 22 AWG, GN	70.0	in	W101, W102, W103, W106	ASIN:B08CKRLS2M	KECO	
+3	Cable, Braided Polyethylene, 1 x 22 AWG, VT	26.0	in	W302, W303	ASIN:B08CKRLS2M	KECO	
+4	Cable, Braided Polyethylene, 2 x 14 AWG	256.0	in	W001A, W401, W402, W403, W404, W405, W406	ASIN:B08CKRLS2M	KECO	
+5	Cable, Braided Polyethylene, 2 x 22 AWG	145.0	in	W002, W003, W004, W005, W006, W007, W008, W009, W010, W011, W012, W013, W014, W015	ASIN:B08CKRLS2M	KECO	
+6	Cable, Braided Polyethylene, 2 x 22 AWG, GN	44.0	in	W104, W107	ASIN:B08CKRLS2M	KECO	
+7	Cable, Braided Polyethylene, 2 x 22 AWG, VT	10.0	in	W301	ASIN:B08CKRLS2M	KECO	
+8	Cable, Braided Polyethylene, 5 x 22 AWG, GN	22.0	in	W105	ASIN:B08CKRLS2M	KECO	
 9	Connector, DC Barrel Plug, male, 2 pins, GN	1		A7-J1			
 10	Connector, Ethernet, male, 1 pins, GN	2		A7-J2, A8-J1			
 11	Connector, Ferrule Terminal, male, 1 pins, VT	2		A9-J1.1, A9-J1.2		WSLLM	ASIN: B0BX9VCTVF

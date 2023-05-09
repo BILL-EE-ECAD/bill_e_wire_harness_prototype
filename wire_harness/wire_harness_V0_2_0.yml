@@ -870,42 +870,101 @@ cables:
     W001A: 
       <<: *template_cable_power_generic
       gauge: 14 AWG
+      length: 10 in
+      notes: GND Conductor is 23 in length
     W001B:
       <<: *template_cable
       gauge: 14 AWG
+      length: 13 in
+
       wirecount: 1
       colors: [RD]
       bgcolor_title: LB
 
     W002: 
       <<: *template_cable_power_generic
+      length: 13 in
 
     W003: 
       <<: *template_cable_power_generic
+      length: 10 in
 
     W004:
       <<: *template_cable_power_generic
       bgcolor_title: LB
+      length: 5 in
 
-    W005: *template_cable_power_generic
-    W006: *template_cable_power_generic
-    W007: *template_cable_power_generic
-    W008: *template_cable_power_generic
-    W009: *template_cable_power_generic
-    W010: *template_cable_power_generic
-    W011: *template_cable_power_generic
-    W012: *template_cable_power_generic
-    W013: *template_cable_power_generic
-    W014: *template_cable_power_generic
-    W015: *template_cable_power_generic
+    W005: 
+      <<: *template_cable_power_generic
+      length: 7 in
+    W006: 
+      <<: *template_cable_power_generic
+      length: 5 in
+    W007: 
+      <<: *template_cable_power_generic
+      length: 7 in
+    W008: 
+      <<: *template_cable_power_generic
+      length: 12 in
+      notes: Motor Controllers are on second layer
+    W009: 
+      <<: *template_cable_power_generic
+      length: 12 in
+      notes: Motor Controllers are on second layer
+    W010: 
+      <<: *template_cable_power_generic
+      length: 12 in
+      notes: Motor Controllers are on second layer
+    W011: 
+      <<: *template_cable_power_generic
+      length: 9 in
+      notes: ""
+    W012: 
+      <<: *template_cable_power_generic
+      length: 8 in
+      notes: Use Raspberry PI GPIO 5V in pins
+    W013: 
+      <<: *template_cable_power_generic
+      length: 15 in
+      notes: ""
+    W014: 
+      <<: *template_cable_power_generic
+      length: 15 in
+      notes: ""
+    W015: 
+      <<: *template_cable_power_generic
+      length: 15 in
+      notes: GND and PWR conductors are same length. 
 
   # ========== Power Train - (PT) (400) ============ #
-    W401: *template_cable_motor_power_generic
-    W402: *template_cable_motor_power_generic
-    W403: *template_cable_motor_power_generic
-    W404: *template_cable_motor_power_generic
-    W405: *template_cable_motor_power_generic
-    W406: *template_cable_motor_power_generic
+    # Assume A1 is the front set of wheels
+    W401: 
+      <<: *template_cable_motor_power_generic
+      length: 41 in
+      notes: To the Front Right Motor M1
+    W402: 
+      <<: *template_cable_motor_power_generic
+      length: 41 in
+      notes: To the Front Left Motor M2
+
+    # Assume A2 is the middle set of wheels
+    W403: 
+      <<: *template_cable_motor_power_generic
+      length: 41 in
+      notes: To the Middle right motor M3
+    W404: 
+      <<: *template_cable_motor_power_generic
+      length: 41 in
+      notes: To the Middle Left motor M4
+    # Assume A3 is the back set of wheels
+    W405: 
+      <<: *template_cable_motor_power_generic
+      length: 41 in
+      notes: To the back Right motor M5
+    W406: 
+      <<: *template_cable_motor_power_generic
+      length: 41 in
+      notes: To the back left motor M6
 
   # ========== Computer (C) (100) =========== #
     W101: 
@@ -913,37 +972,51 @@ cables:
       wirecount: 1
       color: GN
       bgcolor_title: GN
+      length: 20 in
+      notes: USB Cable larger than this length
     W102:
       <<: *template_cable
       wirecount: 1
       color: GN
       bgcolor_title: GN
+      length: 20 in
+      notes: USB Cable larger than this length
     W103:
       <<: *template_cable
       wirecount: 1
       color: GN
       bgcolor_title: GN
+      length: 20 in
+      notes: USB Cable larger than this length
     W104:
       <<: *template_cable
       wirecount: 2
       color: GN
       bgcolor_title: GN
+      length: 22 in
+      notes: ""
     W105:
       <<: *template_cable
       colors: ["RD", "GY", "BU", "OG", "BK"] 
       wirecount: 5
       color: GN
       bgcolor_title: GN
+      length: 22 in
+      notes: ""
     W106:
       <<: *template_cable
       wirecount: 1
       color: GN
       bgcolor_title: GN
+      length:  10 in
+      notes: Ethernet should be around this length
     W107:
       <<: *template_cable
       wirecount: 2
       color: GN
       bgcolor_title: GN
+      length: 22 in
+      notes: ""
 
   # ========== Science Hatchery (SH) (300) =========== #
   # VT = Violet
@@ -952,18 +1025,24 @@ cables:
       gauge: 22 AWG
       color: VT
       bgcolor_title: VT
+      length: 10 in
+      notes: ""
 
     W302:
       <<: *template_cable
       wirecount: 1
       color: VT
       bgcolor_title: VT
+      length: 16 in
+      notes: use the built-in Fan JST connector and add on to it
       
     W303:
       <<: *template_cable
       wirecount: 1
       color: VT
       bgcolor_title: VT
+      length: 10 in
+      notes: 
     
 
 connections:
